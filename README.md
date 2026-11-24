@@ -4,12 +4,20 @@
 
 <h3>🛠️ Things I code with</h3>
 <p>
-<img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
-
-  <img alt="JavaScript" src="https://skillicons.dev/icons?i=js" />
-  <img alt="Java" src="https://skillicons.dev/icons?i=java" />
-  <img alt="Tailwind CSS" src="https://skillicons.dev/icons?i=tailwind" />
+  <img src="https://githubusercontent.com" alt="Next.js" width="40" height="40" />
+  <img src="https://githubusercontent.com" alt="React" width="40" height="40" />
+  <img src="https://githubusercontent.com" alt="TypeScript" width="40" height="40" />
+  <img src="https://githubusercontent.com" alt="JavaScript" width="40" height="40" />
+  <img src="https://githubusercontent.com" alt="Tailwind CSS" width="40" height="40" />
+  <img src="https://githubusercontent.com" alt="HTML5" width="40" height="40" />
+  <img src="https://githubusercontent.com" alt="CSS3" width="40" height="40" />
+  <img src="https://githubusercontent.com" alt="Firebase" width="40" height="40" />
+  <img src="https://githubusercontent.com" alt="Git" width="40" height="40" />
+  <img src="https://githubusercontent.com" alt="GitHub" width="40" height="40" />
+  <img src="https://githubusercontent.com" alt="Vite" width="40" height="40" />
+  <img src="https://githubusercontent.com" alt="Postman" width="40" height="40" />
 </p>
+
 
 <h3>🚀 Featured Projects</h3>
 <table>
