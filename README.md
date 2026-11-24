@@ -1,68 +1,33 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+# 👋 Hey! Nice to see you.
 
-<p>Welcome to my GitHub profile! <br/> I'm <b>Heba</b>, a <b>Computer & Electronic Systems Engineer</b> and <b>Front-End Web Developer</b> from <b>Syria</b>, passionate about building responsive, interactive, and user-friendly websites.</p>
+Welcome to my GitHub profile! I'm **Heba**, a **Computer & Electronic Systems Engineer** and **Front-End Web Developer** from **Syria**, passionate about building fast, responsive, and user-centric web applications.
 
-<h3>🛠️ Things I code with</h3>
-<p>
-  <img src="https://githubusercontent.com" alt="Next.js" width="40" height="40" />
-  <img src="https://githubusercontent.com" alt="React" width="40" height="40" />
-  <img src="https://githubusercontent.com" alt="TypeScript" width="40" height="40" />
-  <img src="https://githubusercontent.com" alt="JavaScript" width="40" height="40" />
-  <img src="https://githubusercontent.com" alt="Tailwind CSS" width="40" height="40" />
-  <img src="https://githubusercontent.com" alt="HTML5" width="40" height="40" />
-  <img src="https://githubusercontent.com" alt="CSS3" width="40" height="40" />
-  <img src="https://githubusercontent.com" alt="Firebase" width="40" height="40" />
-  <img src="https://githubusercontent.com" alt="Git" width="40" height="40" />
-  <img src="https://githubusercontent.com" alt="GitHub" width="40" height="40" />
-  <img src="https://githubusercontent.com" alt="Vite" width="40" height="40" />
-  <img src="https://githubusercontent.com" alt="Postman" width="40" height="40" />
-</p>
+---
 
+### 🛠️ Tech Stack & Tools
 
-<h3>🚀 Featured Projects</h3>
-<table>
-  <thead align="center">
-    <tr>
-      <td><b>🎁 Project</b></td>
-      <td><b>⚙️ Tech Stack</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>Space Tourism Multi-page Website (In Progress)</b></td>
-      <td>Next.js, TypeScript, Tailwind CSS, Firebase</td>
-      <td><img alt="Stars" src="https://img.shields.io/badge/-Stars-FFD700?style=flat-square&logo=github&logoColor=black" /></td>
-      <td>—</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Ahibo2003/job"><b>Job Listings with Multi-tag Filtering</b></a></td>
-      <td>Next.js, TypeScript, Tailwind CSS</td>
-      <td>—</td>
-      <td>—</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Ahibo2003/flags"><b>REST Countries API with Color Theme Switcher</b></a></td>
-      <td>React, JavaScript, REST API, CSS3</td>
-      <td>—</td>
-      <td>—</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Ahibo2003/Product"><b>Product List with Cart</b></a> &amp; <a href="https://github.com/Ahibo2003/Advice"><b>Advice Generator</b></a></td>
-      <td>JavaScript (ES6+), HTML5, CSS3, API</td>
-      <td>—</td>
-      <td>—</td>
-    </tr>
-  </tbody>
-</table>
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend Frameworks** | `Next.js` • `React.js` |
+| **Languages** | `TypeScript` • `JavaScript (ES6+)` • `HTML5` • `CSS3` |
+| **Styling & UI** | `Tailwind CSS` • `Mobile-First Responsive Design` |
+| **Backend & APIs** | `Firebase (Auth & Firestore)` • `RESTful APIs` |
+| **Development Tools** | `Git` • `GitHub` • `Vite` • `VS Code` • `Postman` |
 
-<h3>📫 Connect with me</h3>
-<p>
-  <a href="https://www.linkedin.com">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Ahibo2003">
-    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</p>
+---
+
+### 🚀 Featured Projects
+
+| Project | Tech Stack | Status |
+| :--- | :--- | :--- |
+| **Space Tourism Multi-page Website** | `Next.js` `TypeScript` `Tailwind CSS` `Firebase` | 🚧 In Progress |
+| **Job Listings with Multi-tag Filtering** | `Next.js` `TypeScript` `Tailwind CSS` | ✅ Completed |
+| **REST Countries API & Theme Switcher** | `React` `JavaScript` `REST API` `CSS3` | ✅ Completed |
+| **Product List with Cart & Advice App** | `JavaScript (ES6+)` `HTML5` `CSS3` `API` | ✅ Completed |
+
+---
+
+### 📫 Connect with Me
+
+* **GitHub:** [://github.com](https://://github.com)
+* **LinkedIn:** [://linkedin.com](https://linkedin.com) *(ضعي رابط حسابكِ هنا)*
