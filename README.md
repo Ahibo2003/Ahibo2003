@@ -31,25 +31,25 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com"><b>Space Tourism Multi-page Website (In Progress)</b></a></td>
+      <td><b>Space Tourism Multi-page Website (In Progress)</b></td>
       <td>Next.js, TypeScript, Tailwind CSS, Firebase</td>
       <td><img alt="Stars" src="https://shields.io"/></td>
       <td>—</td>
     </tr>
     <tr>
-      <td><a href="https://github.com"><b>Job Listings with Multi-tag Filtering</b></a></td>
+      <td><a href="https://github.com/Ahibo2003/job"><b>Job Listings with Multi-tag Filtering</b></a></td>
       <td>Next.js, TypeScript, Tailwind CSS</td>
       <td>—</td>
       <td>—</td>
     </tr>
     <tr>
-      <td><a href="https://github.com"><b>REST Countries API with Color Theme Switcher</b></a></td>
+      <td><a href="https://github.com/Ahibo2003/flags"><b>REST Countries API with Color Theme Switcher</b></a></td>
       <td>React, JavaScript, REST API, CSS3</td>
       <td>—</td>
       <td>—</td>
     </tr>
     <tr>
-      <td><a href="https://github.com"><b>Product List with Cart & Advice Generator</b></a></td>
+      <td><a href="https://github.com/Ahibo2003/Product"><b>Product List with Cart</b></a> &amp; <a href="https://github.com/Ahibo2003/Advice"><b>Advice Generator</b></a></td>
       <td>JavaScript (ES6+), HTML5, CSS3, API</td>
       <td>—</td>
       <td>—</td>
