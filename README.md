@@ -1,33 +1,16 @@
-# 👋 Hey! Nice to see you.
+<h1>👋 Hi, I'm Hiba Yousef — Front-End Web Developer</h1>
 
-Welcome to my GitHub profile! I'm **Heba**, a **Computer & Electronic Systems Engineer** and **Front-End Web Developer** from **Syria**, passionate about building fast, responsive, and user-centric web applications.
+<h2>🧑‍💻 Portfolio & About Me</h2>
+<p><b>Computer &amp; Electronic Systems Engineer</b> and <b>Front-End Web Developer</b> specializing in building modern, responsive, and high-performance web applications using <b>React</b>, <b>Next.js</b>, <b>TypeScript</b>, and <b>Tailwind CSS</b>. Check out my projects and how I can help your team.</p>
+<p><a href="https://github.com" target="_blank" rel="noreferrer nofollow"><b>🔗 Explore My GitHub Portfolio (://github.com)</b></a></p>
 
----
+<h2>🚀 Space Tourism Multi-Page Web App (In Progress)</h2>
+<p>A multi-page interactive space travel platform built with <b>Next.js (App Router)</b>, <b>TypeScript</b>, <b>Tailwind CSS</b>, and <b>Firebase</b> for authentication and live trip bookings.</p>
+<p><a href="https://github.com" target="_blank" rel="noreferrer nofollow"><b>👉 View Project Repository</b></a></p>
 
-### 🛠️ Tech Stack & Tools
+<h2>💼 Job Listings &amp; Interactive Web Apps</h2>
+<p>A collection of real-world front-end applications including a dynamic <b>Job Listings Filter App</b> (Next.js &amp; TypeScript), <b>REST Countries API Switcher</b> (React), and <b>E-Commerce Cart</b> (JavaScript).</p>
+<p><a href="https://github.com" target="_blank" rel="noreferrer nofollow"><b>👉 Browse All Repositories</b></a></p>
 
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend Frameworks** | `Next.js` • `React.js` |
-| **Languages** | `TypeScript` • `JavaScript (ES6+)` • `HTML5` • `CSS3` |
-| **Styling & UI** | `Tailwind CSS` • `Mobile-First Responsive Design` |
-| **Backend & APIs** | `Firebase (Auth & Firestore)` • `RESTful APIs` |
-| **Development Tools** | `Git` • `GitHub` • `Vite` • `VS Code` • `Postman` |
-
----
-
-### 🚀 Featured Projects
-
-| Project | Tech Stack | Status |
-| :--- | :--- | :--- |
-| **Space Tourism Multi-page Website** | `Next.js` `TypeScript` `Tailwind CSS` `Firebase` | 🚧 In Progress |
-| **Job Listings with Multi-tag Filtering** | `Next.js` `TypeScript` `Tailwind CSS` | ✅ Completed |
-| **REST Countries API & Theme Switcher** | `React` `JavaScript` `REST API` `CSS3` | ✅ Completed |
-| **Product List with Cart & Advice App** | `JavaScript (ES6+)` `HTML5` `CSS3` `API` | ✅ Completed |
-
----
-
-### 📫 Connect with Me
-
-* **GitHub:** [://github.com](https://://github.com)
-* **LinkedIn:** [://linkedin.com](https://linkedin.com) *(ضعي رابط حسابكِ هنا)*
+<h2>🛠️ Core Tech Stack</h2>
+<p><code>Next.js</code> • <code>React.js</code> • <code>TypeScript</code> • <code>JavaScript (ES6+)</code> • <code>Tailwind CSS</code> • <code>Firebase</code> • <code>REST APIs</code> • <code>Git &amp; GitHub</code></p>
