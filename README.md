@@ -30,7 +30,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com"><b>Space Tourism Multi-page Website</b></a></td>
+      <td><a href="https://github.com/Ahibo2003/job"><b>Space Tourism Multi-page Website</b></a></td>
       <td>Next.js, TypeScript, Tailwind CSS, Firebase</td>
       <td><img alt="Stars" src="https://shields.io"/></td>
       <td><img alt="Forks" src="https://shields.io"/></td>
