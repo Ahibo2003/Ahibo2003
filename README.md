@@ -4,7 +4,8 @@
 
 <h3>🛠️ Things I code with</h3>
 <p>
-  <img alt="Next.js" src="https://skillicons.dev/icons?i=nextjs" />
+<img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
+
   <img alt="JavaScript" src="https://skillicons.dev/icons?i=js" />
   <img alt="Java" src="https://skillicons.dev/icons?i=java" />
   <img alt="Tailwind CSS" src="https://skillicons.dev/icons?i=tailwind" />
