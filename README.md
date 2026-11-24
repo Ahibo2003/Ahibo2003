@@ -50,10 +50,10 @@
 
 <h3>📫 Connect with me</h3>
 <p>
-  <a href="https://www.linkedin.com">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
   <a href="https://github.com/Ahibo2003">
-    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+    <img alt="GitHub" src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://www.linkedin.com">
+    <img alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
